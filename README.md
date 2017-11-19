@@ -1,1 +1,3 @@
-# logan
+# LoGAN
+
+To be updated soon...
