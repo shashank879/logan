@@ -1,7 +1,7 @@
 # LoGAN
 
 Paper has been accepted for the proceedings of AAAI'18.
-You can download the hi-res version of the paper from [here](https://drive.google.com/open?id=1Id74f6tyhKuhENDQMTEqwJHkW1V0LW7A)
+You can download the hi-res version of the paper and the presentation from [here](https://drive.google.com/open?id=1OoxL5972QjJIJXjXRsWqRJYvYzyz5djx)
 
 Sample reconstructions from a BIGAN network
 (Real samples and reconstructions alternated row-wise)
